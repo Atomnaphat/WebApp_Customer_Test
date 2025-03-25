@@ -1,0 +1,14 @@
+{
+  "name": "customer-management-system",
+  "version": "1.0.0",
+  "description": "Customer Information Management System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "body-parser": "^1.20.2"
+  }
+} 
